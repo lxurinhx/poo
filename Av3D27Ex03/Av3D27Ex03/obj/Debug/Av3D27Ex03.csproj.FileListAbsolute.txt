@@ -1,0 +1,11 @@
+H:\POO\primeira etapa\Av3D27Ex03\Av3D27Ex03\bin\Debug\Av3D27Ex03.exe.config
+H:\POO\primeira etapa\Av3D27Ex03\Av3D27Ex03\bin\Debug\Av3D27Ex03.exe
+H:\POO\primeira etapa\Av3D27Ex03\Av3D27Ex03\bin\Debug\Av3D27Ex03.pdb
+H:\POO\primeira etapa\Av3D27Ex03\Av3D27Ex03\obj\Debug\Av3D27Ex03.csproj.AssemblyReference.cache
+H:\POO\primeira etapa\Av3D27Ex03\Av3D27Ex03\obj\Debug\Av3D27Ex03.csproj.SuggestedBindingRedirects.cache
+H:\POO\primeira etapa\Av3D27Ex03\Av3D27Ex03\obj\Debug\Av3D27Ex03.Form1.resources
+H:\POO\primeira etapa\Av3D27Ex03\Av3D27Ex03\obj\Debug\Av3D27Ex03.Properties.Resources.resources
+H:\POO\primeira etapa\Av3D27Ex03\Av3D27Ex03\obj\Debug\Av3D27Ex03.csproj.GenerateResource.cache
+H:\POO\primeira etapa\Av3D27Ex03\Av3D27Ex03\obj\Debug\Av3D27Ex03.csproj.CoreCompileInputs.cache
+H:\POO\primeira etapa\Av3D27Ex03\Av3D27Ex03\obj\Debug\Av3D27Ex03.exe
+H:\POO\primeira etapa\Av3D27Ex03\Av3D27Ex03\obj\Debug\Av3D27Ex03.pdb
